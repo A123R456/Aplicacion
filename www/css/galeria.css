@@ -1,0 +1,20 @@
+}
+.galeria{
+	width:250px;
+	height: 150px;
+	border:2px solid red;
+	border-radius: 5px;
+}
+.cuadro {
+	border: 1px solid black;
+	border-radius: 5px;
+	height: 150px
+}
+.img{
+	width:350px;
+	height: 350px;
+	border:2px solid red;
+	border-radius: 5px;
+
+}
+
